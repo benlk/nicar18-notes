@@ -45,7 +45,7 @@ Facilitator: Brian Boyer
 
 ## Friday
 
-### Using campaign finance data to coer the midterm elections
+### Using campaign finance data to cover the midterm elections
 
 Speakers: Denise Roth Barber, Christopher Schnaars, Ken Schwencke
 
