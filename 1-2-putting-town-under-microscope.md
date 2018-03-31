@@ -26,4 +26,6 @@ Have a way for sources to contact you.
 
 If someone says there's a policy, ask for a copy of the policy. If someone can't reply to you, FOIA records of emails that mention your name. Again, FOIA records of your FOIA requests.
 
-If you're FOIAing things, use [FOIA Machine](https://www.foiamachine.org/) to help write and log your FOIAs. Or pay a little bit of money and use [MuckRock](https://www.muckrock.com/), which does a lot more. Read Sandhya Kambhampati's article "[I've sent out 1,018 open records requests, and this is what I've learned](https://www.propublica.org/article/open-records-requests-illinois-foia-lessons)".
+If you're FOIAing things, use [FOIA Machine](https://www.foiamachine.org/) to help write and log your FOIAs. Or pay a little bit of money and use [MuckRock](https://www.muckrock.com/), which does a lot more. See also [FOIA Mapper](https://foiamapper.com/questions/). The Department of Justice [is now using](https://www.justice.gov/oip/blog/doj-announces-first-iteration-new-national-foia-portal-foiagov) the [national FOIA portal](https://www.foia.gov/). Read Sandhya Kambhampati's article "[I've sent out 1,018 open records requests, and this is what I've learned](https://www.propublica.org/article/open-records-requests-illinois-foia-lessons)".
+
+Does your town use algorithms? http://algorithmtips.org/
